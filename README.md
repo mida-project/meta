@@ -4,7 +4,7 @@
   <img src="https://github.com/MIMBCD-UI/meta/blob/master/headers/breast_cancer_women.png" alt="header" />
 </a>
 
-[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/3172/badge)](https://bestpractices.coreinfrastructure.org/projects/3172)
+[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/3172/badge?style=flat-square)](https://bestpractices.coreinfrastructure.org/projects/3172)
 
 The goal of this project is to propose a new methodology for fully automated breast cancer detection and segmentation from multi-modal medical images introducing clinical covariates. This protocol provides the following novelties. First, it lies on the use of deep convolutional neural networks (CNNs) that will incorporate several image modalities: 3D magnetic resonance images (MRI), ultrasound (US) or Mammography (MG) views. This is the first methodology that is able to classify a whole exam, containing all the above image modalities.
 
