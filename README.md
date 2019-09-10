@@ -4,35 +4,25 @@
   <img src="https://github.com/MIMBCD-UI/meta/blob/master/headers/breast_cancer_women.png" alt="header" />
 </a>
 
-Medical Imaging Multimodality Breast Cancer Diagnosis User Interface (MIMBCD-UI) Project involves the collaborative effort of two Portuguese Research Institutions: [INESC-ID](http://www.inesc-id.pt/) and [ISR](http://welcome.isr.tecnico.ulisboa.pt/)/[IST](http://tecnico.ulisboa.pt/).
+[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/3172/badge)](https://bestpractices.coreinfrastructure.org/projects/3172)
+
+The goal of this project is to propose a new methodology for fully automated breast cancer detection and segmentation from multi-modal medical images introducing clinical covariates. This protocol provides the following novelties. First, it lies on the use of deep convolutional neural networks (CNNs) that will incorporate several image modalities: 3D magnetic resonance images (MRI), ultrasound (US) or Mammography (MG) views. This is the first methodology that is able to classify a whole exam, containing all the above image modalities.
+
+In this project, we are interested to develop a new assistant (i.e. a system that will provide diagnosis support as a second opinion), for other human tissues, besides the breast. This will embrace other anatomies such as the aorta, spinal column, epicardial fat, body fat, heart, lungs, and muscle.
 
 ## Introduction
 
-The project is being developed by the Associated Laboratory - [Institute for Systems and Robotics (ISR)](http://welcome.isr.tecnico.ulisboa.pt/). This project proposes the development of a methodology for breast detection and cancer targeting using multi-modality of medical imaging and textual information.
-
-More Specifically, this project deals with the use of a recently proposed technique in literature: [Deep Convolutional Neural Networks (CNNs)](https://en.wikipedia.org/wiki/Convolutional_neural_network). These deep networks will incorporate information from several different modes: magnetic resonance imaging volumes (MRI), ultrasound images, mammographic images (both views [CC](http://radiopaedia.org/articles/craniocaudal-view) and [MLO](http://radiopaedia.org/articles/mediolateral-oblique-view)) and text. The proposed algorithm, called for multimodality CNNs (MMCNNs) will have the ability to process multimodal information at an unified and sustained manner. This methodology needs to "learn" what are the masses and calcifications.
-
-So that is necessary to collect the [ground truth](https://en.wikipedia.org/wiki/Ground_truth), or notes of the masses and calcifications provided by medical experts. For the collection of these notes, the design and development of an interface is necessary allows the user (in this case, the medical specialist) to display various types of image (i.e., ultrasound, MRI and mammography), and that also allows for user interaction, particularly in providing the notes of the masses and calcifications. For these reasons, it is crucial for the development of this project, cooperation with experts providing the above notes.
+Medical Imaging Diagnosis Assistant (MIDA) Project involves the collaborative effort of two Portuguese Research Institutions: [ISR](http://welcome.isr.tecnico.ulisboa.pt/)/[IST](http://tecnico.ulisboa.pt/) and [ITI](https://iti.larsys.pt/). This project proposes the development of a methodology for breast detection and cancer targeting using *AI-Assistance* for Medical Imaging (MI) technologies. In short, it will be the development of an *Assistant* for the diagnosis of cancer pathologies based Medical Imaging (MI) technologies.
 
 ## Goals
 
-Development of the User Interface for Diagnosis of Breast Cancer in Medical Imaging Multimodality.
+The goal of this project is to research and develop an assistant supporting clinicians (e.g. Physicians, Doctors or Radiologists) on a Medical Imaging (MI) diagnosis, in the context of applied Human-Computer Interaction (HCI) to Health Informatics (HI). In particular, we aim at collecting the expert annotations in big data. In order to reach these goals, we need to study the user's experience with our Interactive Machine Learning (iML) system as a Human-In-The-Loop (HITL) approach while applying User Research (UR) methods, like the User-Centered Design (UCD) approach, involving end-users on the system development. The working practice of clinicians is, therefore, to determine how to adapt their workflow to a new recommendation system for the medical imaging diagnosis. It is crucial to understand how our system can be introduced into the workflow of clinicians, helping them to effectively do the patient's diagnostic. Furthermore, we need to understand the impact of our system in terms of promoting accurate diagnostic and the right patient care. The knowledge and findings from these studies, as well as, from the State-Of-The-Art (SOTA), will allow us to create and evaluate new HCI and HI practices and distil findings and guidelines for clinicians experts to use. Moreover, understanding best practices and design patterns and establish guidelines is impactful to the healthcare industry, as richer, appealing and well designed recommendation systems are crucial to a solid foundation of HCI applied to HI. As a *proof-of-concept*, it is intended to develop an *Assistant* for monitoring and diagnosis of breast lesions in various MI modalities.
 
-It is intended to develop an User Interface for monitoring and diagnosis of breast lesions in various medical imaging modalities. Imaging modalities to include in the work are:
+Imaging modalities to include in the work are:
 
 * [Mammography](https://en.wikipedia.org/wiki/Mammography) (including the views caudal-skull and oblique);
 * [Ultrasound](https://en.wikipedia.org/wiki/Ultrasound);
 * [MRI](https://en.wikipedia.org/wiki/Magnetic_resonance_imaging) volumes;
-
-With protocol already signed with the [Hospital Fernando Fonseca](http://www.hff.min-saude.pt/), it is intended that this interface has two features:
-
-**(i)** - Build a database with annotations in multimodality mammography image.
-
-Provide the user (doctor) facility to draw / write down masses and calcifications, as well as the corresponding [BI-RADS](https://en.wikipedia.org/wiki/BI-RADS) for each imaging modality. This annotation process can be built during the examination, and thus it is possible to build a database of medical notes.
-
-**(ii)** - Follow-up of the patient. With this feature is to allow the doctor automate a multimodality inspection for the patient.
-
-Based on the patient's identification (eg, via a query on the ID), and for a given type of mammography imaging, the system must return all images of this patient over a period of time (eg. Two or more years) entered by the doctor, and show these images (pre-recorded). This feature is critical for diagnosis because it allows, through information visualization, observing not only the calcifications density and the morphological evolution of the masses in that time period.
 
 ## Requirements
 
@@ -44,15 +34,11 @@ Based on the patient's identification (eg, via a query on the ID), and for a giv
 
 ## Media
 
-* [MIMBCD-UI Site](https://mimbcd-ui.github.io/)
+* [MIDA Site](https://mida-project.github.io)
 
-* [ResearchGate](https://www.researchgate.net/project/MIMBCD-UI)
+* [ResearchGate](https://www.researchgate.net/project/Medical-Imaging-Diagnosis-Assistant)
 
-* [GitHub](https://github.com/MIMBCD-UI)
-
-* [MIMBCD-UI Youtube Channel](https://www.youtube.com/channel/UCPz4aTIVHekHXTxHTUOLmXw)
-
-* [MIMBCD-UI Youtube Playlist](https://www.youtube.com/playlist?list=PLSTwZNTQNGC5pdYGWmUwwV8jsckozx6U9)
+* [GitHub](https://github.com/mida-project)
 
 ## Advisorship
 
