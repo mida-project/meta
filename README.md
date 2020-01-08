@@ -10,6 +10,10 @@ The goal of this project is to propose a new methodology for fully automated bre
 
 In this project, we are interested to develop a new assistant (i.e. a system that will provide diagnosis support as a second opinion), for other human tissues, besides the breast. This will embrace other anatomies such as the aorta, spinal column, epicardial fat, body fat, heart, lungs, and muscle.
 
+## Research
+
+Like the fact that these projects are research projects, we underline and ask for the support of our noble scientific community to help us across the path. With this project, we hope to provide valuable information regarding our research topics and theories. Also, you can follow and support our project on [ResearchGate](https://www.researchgate.net/project/Medical-Imaging-Diagnosis-Assistant).
+
 ## Introduction
 
 Medical Imaging Diagnosis Assistant (MIDA) Project involves the collaborative effort of two Portuguese Research Institutions: [ISR](http://welcome.isr.tecnico.ulisboa.pt/)/[IST](http://tecnico.ulisboa.pt/) and [ITI](https://iti.larsys.pt/). This project proposes the development of a methodology for breast detection and cancer targeting using *AI-Assistance* for Medical Imaging (MI) technologies. In short, it will be the development of an *Assistant* for the diagnosis of cancer pathologies based Medical Imaging (MI) technologies.
