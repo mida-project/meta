@@ -58,7 +58,7 @@ Professor [Nuno J. Nunes](http://www.nunonunes.info/) ([M-ITI](https://www.m-iti
 
 #### Acknowledgements
 
-Assistance provided by all intervenients is greatly appreciated. This work was partially supported by national funds through [FCT](http://fct.pt/) and [IST](http://tecnico.ulisboa.pt/) through the [UID/EEA/50009/2013](https://www.fct.pt/apoios/projectos/consulta/vglobal_projecto.phtml.en?idProjecto=147329&idElemConcurso=8999) project, [BL89/2017-IST-ID](http://ist-id.pt/en/) grant.
+Assistance provided by all intervenients is greatly appreciated. This work was partially supported by national funds through [FCT](http://fct.pt/) and [IST](http://tecnico.ulisboa.pt/) across the [UID/EEA/50009/2013](https://www.fct.pt/apoios/projectos/consulta/vglobal_projecto.phtml.en?idProjecto=147329&idElemConcurso=8999) R&D units strategic plan and [BL89/2017-IST-ID](http://ist-id.pt/en/) grant.
 
 ### Supporting
 
