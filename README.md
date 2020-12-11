@@ -26,9 +26,11 @@ The goal of this work is to research and develop an assistant supporting clinici
 
 Imaging modalities to include in the work are:
 
-* [Mammography](https://en.wikipedia.org/wiki/Mammography) (including the views caudal-skull and oblique);
-* [Ultrasound](https://en.wikipedia.org/wiki/Ultrasound);
-* [MRI](https://en.wikipedia.org/wiki/Magnetic_resonance_imaging) volumes;
+* [MammoGraphy](https://radiopaedia.org/articles/mammography-views) images;
+   * [CranioCaudal](https://radiopaedia.org/articles/craniocaudal-view) views;
+   * [MedioLateral Oblique](https://radiopaedia.org/articles/mediolateral-oblique-view) views;
+* [UltraSound](https://radiopaedia.org/articles/ultrasound-introduction) images;
+* [MRI](https://radiopaedia.org/articles/mri-2) volumes;
 
 ## Requirements
 
